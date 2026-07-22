@@ -1,31 +1,23 @@
 <p align="center">
-  <img src="URL_DO_BANNER" alt="Eduardo Martins Banner" width="100%">
+  <img src="banner-git.png" alt="Eduardo Martins Banner" width="100%">
 </p>
 
-<h1 align="center">
-Hi, I'm Eduardo Martins 👋
-</h1>
-
-<h3 align="center">
+<h2 align="center">
 Building Intelligent Digital Solutions
-</h3>
-
-<p align="center">
-Data Science • Artificial Intelligence • Software Engineering
-</p>
+</h2>
 
 ---
 
 ## 💼 About Me
 
-Technology professional passionate about building intelligent solutions through software engineering, artificial intelligence, data science, and automation.
+Technology professional passionate about building intelligent digital solutions through software engineering, artificial intelligence, data science, and automation.
 
-Currently focused on developing practical projects in:
+I enjoy transforming data into business value by developing scalable, efficient, and practical solutions while continuously improving my skills through real-world projects.
 
-- Data Science
-- Machine Learning
-- Software Engineering
-- React Development
-- Automation
-- Python
-- SQL
+## 🚀 Current Focus
+
+Data Science • Machine Learning • Artificial Intelligence • Software Engineering • Data Engineering • Cloud Computing • Automation
+
+  ## 🛠️ Technologies
+
+Python • SQL • Power BI • Pandas • Scikit-learn • React • Git • GitHub • HTML • CSS
