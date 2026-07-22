@@ -1,16 +1,31 @@
-## Hi there 👋
+<p align="center">
+  <img src="URL_DO_BANNER" alt="Eduardo Martins Banner" width="100%">
+</p>
 
-<!--
-**eduardo-martins-tech/eduardo-martins-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">
+Hi, I'm Eduardo Martins 👋
+</h1>
 
-Here are some ideas to get you started:
+<h3 align="center">
+Building Intelligent Digital Solutions
+</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+Data Science • Artificial Intelligence • Software Engineering
+</p>
+
+---
+
+## 💼 About Me
+
+Technology professional passionate about building intelligent solutions through software engineering, artificial intelligence, data science, and automation.
+
+Currently focused on developing practical projects in:
+
+- Data Science
+- Machine Learning
+- Software Engineering
+- React Development
+- Automation
+- Python
+- SQL
