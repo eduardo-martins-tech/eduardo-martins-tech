@@ -2,22 +2,20 @@
   <img src="banner-git.png" alt="Eduardo Martins Banner" width="100%">
 </p>
 
-<h2 align="center">
-Building Intelligent Digital Solutions
-</h2>
-
 ---
 
-## 💼 About Me
+## 💼 Sobre Mim
 
-Technology professional passionate about building intelligent digital solutions through software engineering, artificial intelligence, data science, and automation.
+Profissional apaixonado por tecnologia e pelo desenvolvimento de soluções digitais inteligentes por meio de Engenharia de Software, Ciência de Dados, Inteligência Artificial e Automação.
 
-I enjoy transforming data into business value by developing scalable, efficient, and practical solutions while continuously improving my skills through real-world projects.
+Tenho interesse em transformar dados em valor para o negócio, desenvolvendo soluções escaláveis, eficientes e práticas, enquanto aprimoro continuamente minhas habilidades por meio de projetos reais.
 
-## 🚀 Current Focus
+Atualmente, estou desenvolvendo um portfólio de projetos práticos voltados para Ciência de Dados, Machine Learning e Desenvolvimento de Software, aplicando técnicas e ferramentas utilizadas no mercado.
 
-Data Science • Machine Learning • Artificial Intelligence • Software Engineering • Data Engineering • Cloud Computing • Automation
+## 🚀 Foco Atual
 
-  ## 🛠️ Technologies
+Ciência de Dados • Machine Learning • Inteligência Artificial • Engenharia de Software • Engenharia de Dados • Computação em Nuvem • Automação
+
+## 🛠️ Tecnologias
 
 Python • SQL • Power BI • Pandas • Scikit-learn • React • Git • GitHub • HTML • CSS
